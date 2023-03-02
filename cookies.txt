@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+weather-atlas.com	TRUE	/	FALSE	1999999999	ezoadgid_262584	-1
+weather-atlas.com	TRUE	/	FALSE	1999999999	ezoref_262584	alertadigital.com
+weather-atlas.com	TRUE	/	FALSE	1999999999	ezosuibasgeneris-1	bfe0231b-68e0-476c-675d-3f40e52d6872
+www.weather-atlas.com	TRUE	/	FALSE	1999999999	SameSite	None
+weather-atlas.com	TRUE	/	FALSE	1999999999	ezoab_262584	mod65
+weather-atlas.com	TRUE	/	FALSE	1999999999	active_template::262584	pub_site.1677790957
+weather-atlas.com	TRUE	/	FALSE	1999999999	lp_262584	https://www.weather-atlas.com/es/espana/madrid
+weather-atlas.com	TRUE	/	FALSE	1999999999	ezovuuidtime_262584	1677790958
+weather-atlas.com	TRUE	/	FALSE	1999999999	ezovuuid_262584	2b875a82-feb0-4e7c-7165-63f56d83d215
+weather-atlas.com	TRUE	/	FALSE	1999999999	ezopvc_262584	1
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	_2iRplP2yOTnwTb6DDX3sZHX_OlV6qCjl5Bhv_je_Hw-1677790970-0-AQcicqrug3G2frYfTpDez+WR2Pd67m0Dg+WsNGhaU84U6aAq5UShwddBnedM1LQahw2JiYC7560Zjwo70KEeNr4=
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A167779118610156298
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A167779118610156298
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_goKkFUmLXkE6ICuVReDPKQ=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A167779118610156298
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
